@@ -1,0 +1,15 @@
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\bin\Debug\net6.0\De-Cipherer.exe
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\bin\Debug\net6.0\De-Cipherer.deps.json
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\bin\Debug\net6.0\De-Cipherer.runtimeconfig.json
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\bin\Debug\net6.0\De-Cipherer.dll
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\bin\Debug\net6.0\De-Cipherer.pdb
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\De-Cipherer.csproj.AssemblyReference.cache
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\De-Cipherer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\De-Cipherer.AssemblyInfoInputs.cache
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\De-Cipherer.AssemblyInfo.cs
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\De-Cipherer.csproj.CoreCompileInputs.cache
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\De-Cipherer.dll
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\refint\De-Cipherer.dll
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\De-Cipherer.pdb
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\De-Cipherer.genruntimeconfig.cache
+C:\Users\Win10Pro\Documents\_MyFiles\Programming_projects\De-Cipher\obj\Debug\net6.0\ref\De-Cipherer.dll
